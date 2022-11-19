@@ -32,6 +32,27 @@ https://www.tracelabs.org/get-involved - (World)
 
 # InfoSec Black Friday Deals 2022
 
+
+## Data Privacy
+These range from online services that aid deleting your personal information from search engine results, people search websites, dating sites, portals, and etc., 
+
+Privacy Information Deletion Services \
+https://joindeleteme.com   
+PS: Not an exclusive Black Friday deal page but keep an eye
+
+## Privacy Filters
+Privacy filters are great tools for road-warriors to prevent their screens from shoulder surfers, be it Airports, cafes or crowded sitting places when working on laptops. Best place for these are amazon and to look out for their pages (will depend on geography)
+
+Privacy Filter \
+https://amzn.to/3UM7g2T  
+PS: Not an exclusive Black Friday deal page but yet a discounted list
+
+## Web Cam Stickers
+Web Cam Stickers \
+https://amzn.to/3gjIhor  
+PS: Not an exclusive Black Friday deal page but discounted list
+
+
 ## Newsletters
 Cybersecurity Weekly Newsletter \
 https://letsdefend.io/cybersecurity-news.html  
@@ -144,6 +165,13 @@ ProtonMail \
 https://proton.me/mail/black-friday  
 40% off \
 Deal live now
+
+Surfshark \
+https://surfshark.com  
+84% off \
+2 months free \
+live now
+
 
 -----------------------------------------------------------------------------------------
 
