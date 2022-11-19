@@ -40,6 +40,9 @@ Privacy Information Deletion Services \
 https://joindeleteme.com   
 PS: Not an exclusive Black Friday deal page but keep an eye
 
+https://onerep.com   
+PS: Not an exclusive Black Friday deal page but keep an eye
+
 ## Privacy Filters
 Privacy filters are great tools for road-warriors to prevent their screens from shoulder surfers, be it Airports, cafes or crowded sitting places when working on laptops. Best place for these are amazon and to look out for their pages (will depend on geography)
 
@@ -52,6 +55,10 @@ Web Cam Stickers \
 https://amzn.to/3gjIhor  
 PS: Not an exclusive Black Friday deal page but discounted list
 
+## Password Managers
+LastPass \
+https://lastpass.com  
+PS: Not an exclusive Black Friday deal page but keep an eye
 
 ## Newsletters
 Cybersecurity Weekly Newsletter \
