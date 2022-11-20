@@ -131,7 +131,8 @@ Deal ends: December
 
 Hak5 (Red Team Tools, Hacker Gadgets) \
 https://hak5.org  
-Various discounts, free items, e-books, discount on the shipping \
+Various discounts, free items, e-
+, discount on the shipping \
 Get 2% OFF for every 100$ spent up to 10% \
 Get 200$ OFF for WiFi Pineapple Enterprise \
 Get 15% OFF for bundles \
@@ -140,6 +141,11 @@ Deal ends: End of November
 ## Wearables:
 
 ## Books:
+
+Adam Shostack's Threat Modeling: Designing for Security \
+https://lnkd.in/gRqnXVr  
+"Amazon has a "3 for the price of 2" deal for my Threat Modeling book. Useful if you need copies for your team." \
+Limited Time Deal \
 
 ## Printed Resources:
 
