@@ -80,6 +80,45 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI! \
 Deal ends: 2nd December
 
+
+## Services:
+
+ProtonVPN \
+https://protonvpn.com/blackfriday/  
+50% off + 6 months free \
+Deal live now
+
+ProtonMail \
+https://proton.me/mail/black-friday  
+40% off \
+Deal live now
+
+Surfshark \
+https://surfshark.com  
+84% off \
+2 months free \
+live now
+
+Private Internet Access \
+https://www.privateinternetaccess.com/buy-vpn-online  
+83% off \
+3 months free \
+live now
+
+## Wearables:
+
+Ultrahuman Blood Glucose Monitoring \
+https://ultrahuman.com/pricing/in/?utm_campaign=bfs_in&utm_medium=email_1911&utm_source=reengage&type=otp&product=uh-m1-twelve-week_ref  
+15% off as Black Friday early sales \
+Limited time deal till 26th November \
+
+## Books:
+
+Adam Shostack's Threat Modeling: Designing for Security \
+https://lnkd.in/gRqnXVr  
+"Amazon has a "3 for the price of 2" deal for my Threat Modeling book. Useful if you need copies for your team." \
+Limited Time Deal \
+
 ## Courses & Training
 
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
@@ -138,15 +177,6 @@ Get 200$ OFF for WiFi Pineapple Enterprise \
 Get 15% OFF for bundles \
 Deal ends: End of November
 
-## Wearables:
-
-## Books:
-
-Adam Shostack's Threat Modeling: Designing for Security \
-https://lnkd.in/gRqnXVr  
-"Amazon has a "3 for the price of 2" deal for my Threat Modeling book. Useful if you need copies for your team." \
-Limited Time Deal \
-
 ## Printed Resources:
 
 Elevation of Privilege Card Game  \
@@ -167,24 +197,10 @@ https://agilestationery.com/pages/cybersecurity-games-and-tools
 (2) 20% off 4 or more items with code: CYBER20 \
 Deal valid: 14-30th November
 
-## Services:
+## Miscellaneous:
 
-ProtonVPN \
-https://protonvpn.com/blackfriday/  
-50% off + 6 months free \
-Deal live now
-
-ProtonMail \
-https://proton.me/mail/black-friday  
-40% off \
-Deal live now
-
-Surfshark \
-https://surfshark.com  
-84% off \
-2 months free \
-live now
-
+Reddit Threads on BlackFriday and Cyber Monday deals \
+https://www.reddit.com/r/ListOfSubreddits/comments/yqicz0/subreddit_related_to_deals_discount_and/
 
 -----------------------------------------------------------------------------------------
 
