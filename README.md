@@ -60,6 +60,18 @@ LastPass \
 https://lastpass.com  
 PS: Not an exclusive Black Friday deal page but keep an eye
 
+Keeper \
+https://www.keepersecurity.com/en_GB/holiday50.html
+50% off till Nov 26
+
+Nordpass \
+https://nordpass.com/special/?utm_medium=affiliate&utm_term&utm_content&utm_campaign=off645&utm_source=aff307&aff_free  
+Active for next 12 hours
+
+1password \
+https://1password.com/affiliate/promo/individual/?c=CYBERNE&cjevent=b45b7bd66af811ed82e601aa0a18ba72&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Individuals+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww
+50% off
+
 ## Newsletters
 Cybersecurity Weekly Newsletter \
 https://letsdefend.io/cybersecurity-news.html  
