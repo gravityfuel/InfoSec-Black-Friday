@@ -77,7 +77,7 @@ https://nordpass.com/special/?utm_medium=affiliate&utm_term&utm_content&utm_camp
 Active for next 12 hours
 
 1password \
-https://1password.com/affiliate/promo/individual/?c=CYBERNE&cjevent=b45b7bd66af811ed82e601aa0a18ba72&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Individuals+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww
+https://1password.com/affiliate/promo/individual/?c=CYBERNE&cjevent=b45b7bd66af811ed82e601aa0a18ba72&utm_medium=affiliate&utm_source=Adtech+lt%2C+UAB&utm_campaign=5596782&utm_content=100242223&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Individuals+at+1Password%21+New+Customers+Only%21&cjdata=MXxOfDB8WXww  
 50% off
 
 ## Newsletters
