@@ -37,9 +37,11 @@ https://www.tracelabs.org/get-involved - (World)
 These range from online services that aid deleting your personal information from search engine results, people search websites, dating sites, portals, and etc., 
 
 Privacy Information Deletion Services \
+Delete Me \
 https://joindeleteme.com   
 Use Coupon for 50% sitewide discount (unverified): BLUR_OFFER_DMAA1_50
 
+Onerep \
 https://onerep.com   
 PS: Not an exclusive Black Friday deal page but keep an eye
 
@@ -57,8 +59,8 @@ PS: Not an exclusive Black Friday deal page but discounted list
 
 ## Password Managers
 LastPass \
-https://lastpass.com  
-PS: Not an exclusive Black Friday deal page but keep an eye
+https://www.lastpass.com/?utm_medium=cpc&gclsrc=ds&gclsrc=ds  
+25% off till Nov 30
 
 Keeper \
 https://www.keepersecurity.com/en_GB/holiday50.html
