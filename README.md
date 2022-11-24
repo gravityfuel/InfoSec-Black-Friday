@@ -54,6 +54,12 @@ PS: Not an exclusive Black Friday deal page but yet a discounted list
 
 ## Web Cam Stickers
 Web Cam Stickers \
+
+Daily Objects \
+https://www.dailyobjects.us/collections/organizers/products/cam-safe-webcam-cover  
+40% off
+
+Amazon \
 https://amzn.to/3gjIhor  
 PS: Not an exclusive Black Friday deal page but discounted list
 
