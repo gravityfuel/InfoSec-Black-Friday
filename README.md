@@ -3,25 +3,7 @@ All the deals for InfoSec related software/tools this coming Black Friday and Cy
 
 ## ALL LINKS UPDATED FOR 2025! Many more incoming...
 
-### Quick Personal Update
-After being involved in a car accident and everything going sideways just before November, I'm floored by the care. So many in InfoSec reached out, and kudos to the legend **wwwiesel** (https://github.com/wwwiesel/InfoSec-Black-Friday) for pushing out a substitute repo. By all means, feel free to use that list given their efforts! I won't be duplicating/copying from it, as some old deals, non-vetted items have slipped through, lacks formatting, and so I've been manually re-verifying all deals.
-
-I'm now able to give it my all, so hope you will find this useful. I will nominate another repo owner (wwwiesel get in touch?) to mitigate delays in the future.
-
-### Just 2025 things
-I vet things - hard. Quality over quantity. These codes **work**. I remove one-time dodgy deals, gated-deals, deals that aren't infosec related and either can't be verified or break promises. At your service here to weed out the genuine from the fake. I test out each and every single BF discount claim.
-
-If a deal offers more than 90% off or now $100 from $1000+, it may be inflated or price distortion/manipulation. Stay alert!
-
-This list is for you if you are in: all teh cyberz, penetration tester, blue team, red team, purple team, secure code, exploit research and development, vulnerability management, threat hunting, incident response, forensics, intelligence, threat intelligence, open-source intelligence, governance/risk/compliance, security architect, network security, CSO/CISO, AppSec, DevSecOps, consulting, security awareness, and -insert your role here-
-
-The below deals have either announced a deal, highly expected, or shared through smoke signals to yours truly.
-- All USD
-- All end times in UTC
-- DYOR and AYOR: I try my best to vet all links for legitimacy and being malware-free, but there's always a chance something slips through
-
-## VENDORS
-I have created a comprehensive guide of lessons learned for all the years of putting together this list. If you'd like a copy, please get in touch via mike@monnik.io.
+### DO YOUR OWN RESEARCH (DYOR)
 
 ## FAQ
 
@@ -34,6 +16,9 @@ Most start around the 20th November
 ### When do these sales end?
 Most end 2nd December, due to Cyber Monday
 
+### NO LIABILITIES
+Standard disclaimer: These are provided as is and are crowd-sourced. Do your own research before buying any of the deals and do not hold me liable.
+
 ### Can I add deals to the page?
 Yes, please follow the below formatting guidelines, provide a source and code. Has to be infosec related, deal has to be active or a waitlist.
 
@@ -42,8 +27,6 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 :rocket::rocket: means the vendor is a community supporter. They have committed financially to support the time and effort involved in providing you this list, with a portion being donated to the EFF! https://www.eff.org/
 
 :new: means first time ever joining the list!
-
-*Disclaimer: No affiliate links. I have included my own, paid and other discount codes sent in directly by DM/Pigeon/Smoke signals.
 
 -----------------------------------------------------------------------------------------
 
